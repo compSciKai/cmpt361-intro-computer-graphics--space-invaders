@@ -27,8 +27,7 @@ If any of the bullets touch the cannon, the cannon is destroyed and the aliens w
 The aliens do not collide into each other, and the aliens do not shoot each other either. 
 The top row aliens only start to shoot after all lower row aliens are killed.
 
-- Shooting Cannonball: The cannon shoots cannonballs upward when the user clicks on the
-spacebar. If any cannonball touches an alien, the alien dies and disappears. The aliens
+- Shooting Cannonball: The cannon shoots cannonballs upward when the user clicks the mouse or presses the spacebar. If any cannonball touches an alien, the alien dies and disappears. The aliens
 lose if they are all killed by cannonballs before any of them reaches the bottom of
 the screen.
 
